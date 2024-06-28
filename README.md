@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
 Graduate Student at Florida Interactive Entertainment Academy
-</div>
+</h1>
 
 checkout my [portfolio](https://www.kylebarrows.com)
 connect with me on [Linkedin](https://www.linkedin.com/in/barrowsk/)
