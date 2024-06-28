@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+# Graduate Student at Florida Interactive Entertainment Academy
+</p>
+
+checkout my [portfolio](https://www.kylebarrows.com)
+connect with me on [Linkedin](https://www.linkedin.com/in/barrowsk/)
 
 <!--
 **kylebarrows/kylebarrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
