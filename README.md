@@ -6,7 +6,7 @@ Graduate Student at Florida Interactive Entertainment Academy
 Checkout my [portfolio](https://www.kylebarrows.com)
 \
 Connect with me on [Linkedin](https://www.linkedin.com/in/barrowsk/)
-\
+
 <h3>
   Languages and Tools
 </h3>
